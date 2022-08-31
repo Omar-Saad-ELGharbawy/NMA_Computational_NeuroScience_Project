@@ -24,4 +24,5 @@ In other words:
 mu_CON = mu_EXP = mu_CW = mu_CCW = mu_BAR1 = mu_BAR2
 ## Tools
 Python  
-t-statistics
+t-statistics  
+nilearn
