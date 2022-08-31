@@ -23,5 +23,5 @@ mu_i = mu_j; where i and j belong to {"CON", "EXP","CW","CCW","BAR1","BAR2"} and
 In other words:
 mu_CON = mu_EXP = mu_CW = mu_CCW = mu_BAR1 = mu_BAR2
 ## Tools
-Python 
-t-statistics
+-Python 
+-t-statistics
