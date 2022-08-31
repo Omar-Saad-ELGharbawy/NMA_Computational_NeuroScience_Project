@@ -20,8 +20,8 @@ i belong to {"CON", "EXP","CW","CCW","BAR1","BAR2"} which indicates the stimulus
 We hypothesize that:  
 mu_i = mu_j; where i and j belong to {"CON", "EXP","CW","CCW","BAR1","BAR2"} and i is not equal to j
 
-In other words:
+In other words: 
 mu_CON = mu_EXP = mu_CW = mu_CCW = mu_BAR1 = mu_BAR2
 ## Tools
-Python 
--t-statistics
+Python  
+t-statistics
